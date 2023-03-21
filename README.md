@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/YRTTEUGIrOWyqkXjb8/giphy.gif?cid=ecf05e47217zywbdk672v8x3k84yh2x5921u8ly8y61wdm1q&rid=giphy.gif&ct=s" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/logan-lauton/">
@@ -18,6 +18,11 @@
 
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=logan-lauton&style=flat-square&color=green" alt=""/>
+</div>
+
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=ecf05e47xkvi2rjhteh4jyj5ze974740pelyi02czms7ha4e&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 - 📖 Pusuing Bachelor's Degree in Data Science, with Minors in Computer Science, Economics & Mathematics @
