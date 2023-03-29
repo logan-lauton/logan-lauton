@@ -32,7 +32,7 @@
 
          with: 
 
-           github_user_name:  <USERNAME> 
+           github_user_name: logan-lauton
 
            svg_out_path: dist/github-contribution-grid-snake.svg 
 
