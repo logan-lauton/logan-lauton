@@ -36,7 +36,7 @@
     <a href="https://www.marquette.edu/data-science/" rel="nofollow">Marquette University</a>.
 - 🌱 Currently searching for a position in the Data Science Realm
 - 💭 Interested in Sport, Economic, and Astronomical Data
-- 🔭 I'm currently working on projects a few projects specifically my <a href="https://github.com/logan-lauton/Capsicum-Research" rel="nofollow">Capsicum Project</a>  as well as an NBA Player HUD RShiny App. 
+- 🔭 I'm currently working on projects a few projects specifically my <a href="https://github.com/logan-lauton/Capsicum-Research" rel="nofollow">Capsicum Project</a>  as well as an [NBA Player HUD App](https://github.com/logan-lauton/NBA-Player-HUD). 
 
 #
 
