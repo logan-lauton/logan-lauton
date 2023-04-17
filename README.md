@@ -65,13 +65,13 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan-lauton&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan-lauton&theme=tokyonight&count_private=true)
 
 #
 
 ### 📊 Stats
 
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan-lauton&show_icons=true&theme=tokyonight)
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan-lauton&show_icons=true&theme=tokyonight&count_private=true)
 
 #
 
