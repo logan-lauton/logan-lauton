@@ -32,11 +32,11 @@
 
 ### 🧔About Me
 
-- 📖 Pusuing Bachelor's Degree in Data Science, with Minors in Computer Science, Economics & Mathematics @
-    <a href="https://www.marquette.edu/data-science/" rel="nofollow">Marquette University</a>.
+- 📖 Recent Graduate of <a href="https://www.marquette.edu/data-science/" rel="nofollow">Marquette University</a>, with a  Bachelor of Science in Data Science, with Minors in Computer Science, Economics & Mathematics
+    .
 - 🌱 Currently searching for a position in the Data Science Realm
 - 💭 Interested in Sport, Economic, and Astronomical Data
-- 🔭 I'm currently working on projects a few projects specifically my <a href="https://github.com/logan-lauton/Capsicum-Research" rel="nofollow">Capsicum Project</a>  as well as an [NBA Player HUD App](https://github.com/logan-lauton/NBA-Player-HUD). 
+- 🔭 I'm currently working on a few projects including my <a href="https://github.com/logan-lauton/Capsicum-Research" rel="nofollow">Capsicum Project</a> but be sure to check out some recently finished projects such as my [Fantasy Basketball Genie App](https://github.com/logan-lauton/NBA-Player-HUD). 
 
 #
 
